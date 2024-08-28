@@ -34,3 +34,6 @@ Soil Data/
 The SandNet model consists of three convolutional layers followed by max-pooling layers and two fully connected layers. The model's architecture is designed to work effectively with the soil image dataset, recognizing features relevant to different soil textures
 
 # Evaluation
+Testing accuracy: **84.14634146341463%**
+
+![Training Loss and Accuracy](Screenshot%202024-08-27%20201635.png)
