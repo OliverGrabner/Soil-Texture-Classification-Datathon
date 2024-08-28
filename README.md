@@ -1,1 +1,2 @@
-# Soil-Texture-Classification-Datathon
+# rock and soil
+ Soil texture classifying by image recognition
