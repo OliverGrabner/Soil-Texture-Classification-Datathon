@@ -15,13 +15,18 @@ Clone the repository and install the required packages:
 git clone https://github.com/yourusername/soil-texture-classification.git
 cd soil-texture-classification
 pip install torch torchvision pillow
-
+```
 ## Dataset
 Soil Data/
+
 ├── Clay/
+
 ├── Loam/
+
 ├── Sand/
+
 ├── Sandy Loam/
+
 └── Silt/
 
 
